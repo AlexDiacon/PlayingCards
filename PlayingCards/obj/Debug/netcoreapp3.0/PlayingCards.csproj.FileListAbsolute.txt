@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\PlayingCards\obj\Debug\netcoreapp3.0\PlayingCards.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PlayingCards\obj\Debug\netcoreapp3.0\PlayingCards.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PlayingCards\obj\Debug\netcoreapp3.0\PlayingCards.AssemblyInfo.cs
+C:\Users\User\source\repos\PlayingCards\bin\Debug\netcoreapp3.0\PlayingCards.exe
+C:\Users\User\source\repos\PlayingCards\bin\Debug\netcoreapp3.0\PlayingCards.deps.json
+C:\Users\User\source\repos\PlayingCards\bin\Debug\netcoreapp3.0\PlayingCards.runtimeconfig.json
+C:\Users\User\source\repos\PlayingCards\bin\Debug\netcoreapp3.0\PlayingCards.runtimeconfig.dev.json
+C:\Users\User\source\repos\PlayingCards\bin\Debug\netcoreapp3.0\PlayingCards.dll
+C:\Users\User\source\repos\PlayingCards\bin\Debug\netcoreapp3.0\PlayingCards.pdb
+C:\Users\User\source\repos\PlayingCards\obj\Debug\netcoreapp3.0\PlayingCards.dll
+C:\Users\User\source\repos\PlayingCards\obj\Debug\netcoreapp3.0\PlayingCards.pdb
